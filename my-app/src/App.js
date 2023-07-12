@@ -8,7 +8,6 @@ function App() {
       <div className="container">
         <header className="App-header">
           <h1>Dictionary</h1>
-          <Dictionary />
           <img src={logo} className="App-logo img-fuid" alt="logo" />
         </header>
         <main>
