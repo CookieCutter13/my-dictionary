@@ -10,9 +10,7 @@ function App() {
           <h1>Dictionary</h1>
           <img src={logo} className="App-logo img-fuid" alt="logo" />
         </header>
-        <main>
-          <Dictionary />
-        </main>
+     
         <footer className="text-center">Coded by ME</footer>
       </div>
     </div>
